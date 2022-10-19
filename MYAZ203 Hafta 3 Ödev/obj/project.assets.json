@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\MYAZ203 Nesne Tabanlı Programlama\\MYAZ203 Hafta 2 ödev\\MYAZ203 Hafta 2 ödev.csproj",
-      "projectName": "MYAZ203 Hafta 2 ödev",
-      "projectPath": "C:\\Users\\user\\Desktop\\MYAZ203 Nesne Tabanlı Programlama\\MYAZ203 Hafta 2 ödev\\MYAZ203 Hafta 2 ödev.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\MYAZ203 Nesne Tabanlı Programlama\\MYAZ203 Hafta 3 Ödev\\MYAZ203 Hafta 3 Ödev.csproj",
+      "projectName": "MYAZ203 Hafta 3 Ödev",
+      "projectPath": "C:\\Users\\user\\Desktop\\MYAZ203 Nesne Tabanlı Programlama\\MYAZ203 Hafta 3 Ödev\\MYAZ203 Hafta 3 Ödev.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\MYAZ203 Nesne Tabanlı Programlama\\MYAZ203 Hafta 2 ödev\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\MYAZ203 Nesne Tabanlı Programlama\\MYAZ203 Hafta 3 Ödev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

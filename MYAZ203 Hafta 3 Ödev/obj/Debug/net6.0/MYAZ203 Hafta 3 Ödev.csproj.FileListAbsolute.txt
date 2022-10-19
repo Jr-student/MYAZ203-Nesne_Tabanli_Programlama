@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\bin\Debug\net6.0\MYAZ203 Hafta 3 Ödev.exe
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\bin\Debug\net6.0\MYAZ203 Hafta 3 Ödev.deps.json
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\bin\Debug\net6.0\MYAZ203 Hafta 3 Ödev.runtimeconfig.json
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\bin\Debug\net6.0\MYAZ203 Hafta 3 Ödev.dll
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\bin\Debug\net6.0\MYAZ203 Hafta 3 Ödev.pdb
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.AssemblyInfo.cs
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.dll
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\refint\MYAZ203 Hafta 3 Ödev.dll
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.pdb
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\MYAZ203 Hafta 3 Ödev.genruntimeconfig.cache
+C:\Users\user\Desktop\MYAZ203 Nesne Tabanlı Programlama\MYAZ203 Hafta 3 Ödev\obj\Debug\net6.0\ref\MYAZ203 Hafta 3 Ödev.dll

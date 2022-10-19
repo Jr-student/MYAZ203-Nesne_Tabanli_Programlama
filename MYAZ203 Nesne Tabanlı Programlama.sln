@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYAZ203 Hafta 2 ödev", "MYAZ203 Hafta 2 ödev\MYAZ203 Hafta 2 ödev.csproj", "{84C4E869-B799-4223-B5A9-7776F95923AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MYAZ203 Hafta 2 ödev", "MYAZ203 Hafta 2 ödev\MYAZ203 Hafta 2 ödev.csproj", "{84C4E869-B799-4223-B5A9-7776F95923AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYAZ203 Hafta 3 Ödev", "MYAZ203 Hafta 3 Ödev\MYAZ203 Hafta 3 Ödev.csproj", "{35EDCCED-39A4-4456-9E9A-E66110AA1F8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{84C4E869-B799-4223-B5A9-7776F95923AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84C4E869-B799-4223-B5A9-7776F95923AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84C4E869-B799-4223-B5A9-7776F95923AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EDCCED-39A4-4456-9E9A-E66110AA1F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EDCCED-39A4-4456-9E9A-E66110AA1F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EDCCED-39A4-4456-9E9A-E66110AA1F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EDCCED-39A4-4456-9E9A-E66110AA1F8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
